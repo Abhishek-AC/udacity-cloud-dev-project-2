@@ -1,2 +1,7 @@
 # udacity-cloud-dev-project-2
-Udagram Image Filtering Microservice
+
+### Overview
+
+- Udagram Image Filtering Microservice
+- Developing as a part of Udacity Cloud Developer NanoDegree
+
